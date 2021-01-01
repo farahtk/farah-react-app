@@ -13,3 +13,7 @@
 
 ## Adding Image loader
 1. npm install --dev file-loader
+
+## Adding TypeScript support
+1. npm install --dev typescript ts-loader source-map-loader
+2. npm install --dev @types/react @types/react-dom
