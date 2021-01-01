@@ -10,3 +10,6 @@
 
 ## Adding SCSS support
 1. npm install --dev sass-loader node-sass css-loader style-loader --save
+
+## Adding Image loader
+1. npm install --dev file-loader
